@@ -1,68 +1,57 @@
-<!-- =========================================================
-     ANWAR AHMAD — GITHUB PROFILE README
-     Repository: Anwar-Ahmad31/Anwar-Ahmad31
-     ========================================================= -->
-
-<!-- ===================== CINEMATIC HEADER ===================== -->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:020617,50:0F172A,100:0891B2&height=220&section=header&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:020617,45:172554,75:312E81,100:0891B2&height=220&section=header&text=&fontSize=0&animation=twinkling"
     width="100%"
+    alt="Cinematic header"
   />
 </p>
 
-<!-- ===================== PROFILE INTRO CARD ===================== -->
-
 <table align="center">
 <tr>
-<td width="120" align="center">
+<td width="115" align="center">
 
 <img
 src="https://github.com/Anwar-Ahmad31.png"
-width="100"
-style="border-radius:50%"
+width="95"
 alt="Anwar Ahmad"
 />
 
 </td>
 
-<td width="500">
+<td width="540">
 
 # Hi, I'm Anwar Ahmad 👋
 
-**Computer Science Engineering Student · Aspiring Data Scientist**
+**Aspiring Data Scientist · Python Developer**
 
-Data Science • Machine Learning • AI • Python Development
+Data Science • Machine Learning • Artificial Intelligence
 
 </td>
 </tr>
 </table>
 
-<br>
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=0891B2&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Exploring+LLMs+%26+RAG+Systems;Learning+AI+Automation;Building+%26+Learning+Every+Day"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=1200&color=22D3EE&center=true&vCenter=true&width=780&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Exploring+Agentic+AI;Building+with+LLMs+%26+RAG;Learning+AI+Automation"
     alt="Typing animation"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/Anwar-Ahmad31">
-    <img src="https://img.shields.io/badge/GitHub-Anwar--Ahmad31-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Anwar--Ahmad31-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/anwar-ahmad">
+    <img src="https://img.shields.io/badge/LinkedIn-Anwar%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:anwar.ahmad1031@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/anwar-ahmad">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anwar-Ahmad31&label=Profile%20Views&color=0891B2&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Anwar-Ahmad31?label=Followers&style=flat-square&color=0891B2" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Anwar-Ahmad31?label=Followers&style=flat-square&color=0891B2" alt="Followers" />
 </p>
 
 ---
@@ -94,97 +83,140 @@ Currently, I'm expanding my skills in **AI automation, Large Language Models, RA
 
 # 🚀 Featured Project
 
-<table>
-<tr>
-<td>
+<p align="center">
+  <a href="https://github.com/Anwar-Ahmad31/tradediary-platform">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Anwar-Ahmad31&repo=tradediary-platform&theme=tokyonight&hide_border=true"
+      alt="Trade Diary"
+    />
+  </a>
+</p>
 
-## 📈 Trade Diary
+### 📈 Trade Diary
 
 A Python-based application for **tracking, logging and analyzing stock-market trades**.
 
-The project focuses on helping users review their trading performance, analyze historical data and identify useful patterns.
+**Focus**
 
-### What I'm building
+`Python` `Data Analytics` `Visualization` `Trading`
 
-* 📊 Trade tracking & logging
-* 📈 Performance analysis
-* 🔎 Pattern identification
-* 📉 Data visualization
-* 🧠 Actionable trading insights
+<p align="center">
+  <a href="https://github.com/Anwar-Ahmad31/tradediary-platform">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Trade Diary" />
+  </a>
+</p>
 
-<br>
+---
 
-<a href="https://github.com/Anwar-Ahmad31/tradediary-platform">
-<img src="https://img.shields.io/badge/VIEW%20TRADE%20DIARY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Trade Diary" />
-</a>
+# 💻 Things I've Built
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+## 📈 Trade Diary
+
+Python-based trading journal and analytics application.
+
+* Trade tracking
+* Performance analysis
+* Data visualization
+* Pattern identification
+
+**Tech:** `Python` `Data Analytics`
 
 </td>
+
+<td width="50%" valign="top">
+
+## 🎯 Internship Recommendation
+
+Smart internship recommendation platform helping students discover opportunities based on their skills, interests and career preferences.
+
+**Tech:** `Python` `AI` `HTML` `CSS`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌾 Kisan Market
+
+Collaborative farmer-vendor marketplace designed to improve communication, accessibility and market transparency.
+
+**Tech:** `HTML` `CSS` `AI-assisted Development`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 AI Exploration
+
+Currently exploring modern AI technologies and intelligent applications.
+
+**Focus:** `LLMs` `RAG` `AI Automation` `Python Backend`
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 💻 My Projects
+# 🧠 What I'm Currently Exploring
 
-<table>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1300&color=8B5CF6&center=true&vCenter=true&width=750&lines=Exploring+Agentic+AI;Building+with+LLMs;Learning+RAG+Systems;Experimenting+with+AI+Automation;Turning+AI+Ideas+into+Useful+Applications"
+    alt="AI exploration animation"
+  />
+</p>
+
+<table align="center">
 <tr>
 
-<td width="50%">
+<td align="center" width="180">
 
-### 📈 Trade Diary
+### 🤖
 
-Python-based trading journal and analytics application.
-
-**Focus**
-
-`Python` `Data Analytics` `Visualization`
-
-<a href="https://github.com/Anwar-Ahmad31/tradediary-platform">
-View Repository →
-</a>
+**AI Agents**
 
 </td>
 
-<td width="50%">
+<td align="center" width="180">
 
-### 🎯 Internship Recommendation System
+### 🧠
 
-A smart platform designed to help students discover relevant internship opportunities based on their **skills, interests and career preferences**.
-
-**Focus**
-
-`Python` `AI` `HTML` `CSS`
+**LLM Systems**
 
 </td>
 
-</tr>
+<td align="center" width="180">
 
-<tr>
+### 🔎
 
-<td width="50%">
-
-### 🌾 Kisan Market
-
-A collaborative farmer-vendor marketplace designed to improve communication, accessibility and market transparency.
-
-**Focus**
-
-`HTML` `CSS` `AI-assisted Development`
+**RAG Systems**
 
 </td>
 
-<td width="50%">
+<td align="center" width="180">
 
-### 🤖 AI Exploration
+### ⚙️
 
-Currently exploring modern AI technologies including:
-
-`LLMs` `RAG` `AI Automation` `Python Backend`
+**AI Automation**
 
 </td>
 
 </tr>
 </table>
+
+<p align="center">
+  <b>AI + Data + Automation → Intelligent Applications</b>
+</p>
 
 ---
 
@@ -193,7 +225,7 @@ Currently exploring modern AI technologies including:
 ### 🐍 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css" alt="Programming skills" />
+  <img src="https://skillicons.dev/icons?i=python,html,css" alt="Programming" />
 </p>
 
 ### 📊 Data Science & Analytics
@@ -206,20 +238,20 @@ Currently exploring modern AI technologies including:
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### 🤖 Artificial Intelligence & Machine Learning
+### 🤖 AI & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="Large Language Models" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-0891B2?style=for-the-badge" alt="RAG Systems" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-0891B2?style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/AI%20Automation-0F766E?style=for-the-badge" alt="AI Automation" />
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
   <img src="https://img.shields.io/badge/Conda-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda" />
 </p>
 
@@ -229,7 +261,7 @@ Currently exploring modern AI technologies including:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AI%20%26%20Automation-0891B2?style=for-the-badge" alt="AI and Automation" />
+<img src="https://img.shields.io/badge/AI%20%26%20Automation-0891B2?style=for-the-badge" alt="AI Automation" />
 
 <img src="https://img.shields.io/badge/Python%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Backend" />
 
@@ -250,7 +282,7 @@ Currently exploring modern AI technologies including:
 Currently in **6th Semester**
 CGPA: **6.73**
 
-| Qualification | Board / Institution       |     Year |    Result |
+| Qualification | Institution / Board       |     Year |    Result |
 | ------------- | ------------------------- | -------: | --------: |
 | B.Tech CSE    | IES College of Technology | Pursuing | CGPA 6.73 |
 | 12th          | Bihar Board               |     2022 |     58.4% |
@@ -258,7 +290,7 @@ CGPA: **6.73**
 
 ---
 
-# 🏆 Certification & Achievement
+# 🏆 Certifications & Achievements
 
 ### 📜 Data Science
 
@@ -270,7 +302,7 @@ National Level Hackathon
 Sagar Institute of Research and Technology, Bhopal
 in association with Cybrom Technology Pvt. Ltd.
 
-**Skills demonstrated**
+**Demonstrated**
 
 `Teamwork` · `Problem Solving` · `Creativity` · `Leadership` · `Dedication`
 
@@ -286,7 +318,7 @@ in association with Cybrom Technology Pvt. Ltd.
 
 <img src="https://img.shields.io/badge/📱%20Social%20Media-0F172A?style=for-the-badge" alt="Social Media" />
 
-<img src="https://img.shields.io/badge/🤖%20AI-0F172A?style=for-the-badge" alt="AI" />
+<img src="https://img.shields.io/badge/🤖%20Artificial%20Intelligence-0F172A?style=for-the-badge" alt="Artificial Intelligence" />
 
 </p>
 
@@ -322,11 +354,11 @@ in association with Cybrom Technology Pvt. Ltd.
 
 ---
 
-# 📈 Contribution Activity
+# 📈 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Anwar-Ahmad31&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Anwar-Ahmad31&bg_color=050B14&color=22D3EE&line=8B5CF6&point=F59E0B&area_color=312E81&area=true&hide_border=true&custom_title=Anwar%20Ahmad's%20GitHub%20Activity&radius=10"
     width="100%"
     alt="GitHub activity graph"
   />
@@ -351,7 +383,7 @@ in association with Cybrom Technology Pvt. Ltd.
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Anwar-Ahmad31/Anwar-Ahmad31/output/github-contribution-grid-snake.svg"
-    alt="Contribution snake"
+    alt="GitHub contribution snake"
   />
 </p>
 
@@ -359,11 +391,11 @@ in association with Cybrom Technology Pvt. Ltd.
 
 # 🤝 Let's Collaborate
 
-I'm open to collaborating on projects involving:
+I'm interested in collaborating on:
 
 `Data Science` · `Machine Learning` · `Artificial Intelligence` · `Python` · `LLMs` · `RAG` · `AI Automation` · `Data Analytics`
 
-If you're building something interesting, feel free to connect with me.
+If you're working on something interesting, feel free to connect.
 
 ---
 
@@ -399,5 +431,6 @@ If you're building something interesting, feel free to connect with me.
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:172554,100:020617&height=100&section=footer"
     width="100%"
+    alt="Footer"
   />
 </p>
