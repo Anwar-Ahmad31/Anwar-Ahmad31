@@ -292,21 +292,64 @@ CGPA: **6.73**
 
 # 🏆 Certifications & Achievements
 
-### 📜 Data Science
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📜 Data Science Certification
 
 **Code with Harry — Online**
 
+Completed a Data Science certification and strengthened my foundation in data analysis, Python and data-driven problem solving.
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🏅 TECH SAGEATHON 2K26
 
-National Level Hackathon
-Sagar Institute of Research and Technology, Bhopal
+**National Level Hackathon**
+
+Sagar Institute of Research and Technology, Bhopal  
 in association with Cybrom Technology Pvt. Ltd.
 
-**Demonstrated**
+**Skills demonstrated**
 
-`Teamwork` · `Problem Solving` · `Creativity` · `Leadership` · `Dedication`
+`Teamwork` · `Problem Solving` · `Creativity`  
+`Leadership` · `Dedication`
 
----
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 🚀 BGI Hackathon 2026 — Vision 2047 | Viksit Bharat
+
+**Certificate of Participation**
+
+Participated in the **BGI Hackathon 2026**, a national-level innovation platform organized by **Bansal Group of Institutes**, Bhopal.
+
+**Theme:** `Agriculture` · `FoodTech` · `Rural Innovation`
+
+📅 **13–14 May 2026**  
+📍 **BGI-Kokta Campus, Bhopal**
+
+The hackathon brought together **600+ teams and 2800+ participants** from across India to ideate, innovate and build impactful solutions.
+
+**Focus**
+
+`Innovation` · `Problem Solving` · `Teamwork` · `Creativity`
+
+</td>
+</tr>
+</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/BGI%20HACKATHON%202026-Participant-FF4B2B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/National%20Level-Innovation-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bhopal-Madhya%20Pradesh-0891B2?style=for-the-badge" />
+</p>
+
 
 # 💡 Interests
 
